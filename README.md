@@ -1,4 +1,4 @@
-# sample_bot
+# sample_bot: Bot auto trade Binance theo yeu cau: cross macd, va rsi
 1> Code chay duoc ca linux + win: 				+30usd
 2> Cau hinh 1 vps/window chay source: 			+50usd/1pc
 3> Code notification ve phone moi khi co order, 
