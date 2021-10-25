@@ -1,0 +1,120 @@
+1635139389.1 Position: LONG [0.120000] BTCUSDT at price 62007.60333|Now:62071.62519 |Liquid=0.00000-->unrealizedProfit=7.7USDT ~ 0.1%
+1635139389.1 Position: LONG [10.000000] LTCUSDT at price 194.29000|Now:193.77372 |Liquid=146.40519-->unrealizedProfit=-5.2USDT ~ -0.3%
+1635139389.1 Position: LONG [0.500000] ETHUSDT at price 4148.07000|Now:4140.15739 |Liquid=3127.43156-->unrealizedProfit=-4.0USDT ~ -0.2%
+GET: https://
+1635139399.6 Position: LONG [0.120000] BTCUSDT at price 62007.60333|Now:62075.35577 |Liquid=0.00000-->unrealizedProfit=8.1USDT ~ 0.1%
+1635139399.6 Position: LONG [10.000000] LTCUSDT at price 194.29000|Now:193.77965 |Liquid=146.40519-->unrealizedProfit=-5.1USDT ~ -0.3%
+1635139399.6 Position: LONG [0.500000] ETHUSDT at price 4148.07000|Now:4140.58938 |Liquid=3127.43156-->unrealizedProfit=-3.7USDT ~ -0.2%
+GET: https://
+1635139410.2 Position: LONG [0.120000] BTCUSDT at price 62007.60333|Now:62076.10438 |Liquid=0.00000-->unrealizedProfit=8.2USDT ~ 0.1%
+1635139410.2 Position: LONG [10.000000] LTCUSDT at price 194.29000|Now:193.73090 |Liquid=146.40519-->unrealizedProfit=-5.6USDT ~ -0.3%
+1635139410.2 Position: LONG [0.500000] ETHUSDT at price 4148.07000|Now:4140.58837 |Liquid=3127.43156-->unrealizedProfit=-3.7USDT ~ -0.2%
+GET: https://
+1635139420.7 Position: LONG [0.120000] BTCUSDT at price 62007.60333|Now:62074.41270 |Liquid=0.00000-->unrealizedProfit=8.0USDT ~ 0.1%
+1635139420.7 Position: LONG [10.000000] LTCUSDT at price 194.29000|Now:193.72543 |Liquid=146.40519-->unrealizedProfit=-5.6USDT ~ -0.3%
+1635139420.7 Position: LONG [0.500000] ETHUSDT at price 4148.07000|Now:4140.53004 |Liquid=3127.43156-->unrealizedProfit=-3.8USDT ~ -0.2%
+GET: https://
+1635139431.3 Position: LONG [0.120000] BTCUSDT at price 62007.60333|Now:62074.62227 |Liquid=0.00000-->unrealizedProfit=8.0USDT ~ 0.1%
+1635139431.3 Position: LONG [10.000000] LTCUSDT at price 194.29000|Now:193.77534 |Liquid=146.40519-->unrealizedProfit=-5.1USDT ~ -0.3%
+1635139431.3 Position: LONG [0.500000] ETHUSDT at price 4148.07000|Now:4140.48500 |Liquid=3127.43156-->unrealizedProfit=-3.8USDT ~ -0.2%
+GET: https://
+1635139441.9 Position: LONG [0.120000] BTCUSDT at price 62007.60333|Now:62074.66713 |Liquid=0.00000-->unrealizedProfit=8.0USDT ~ 0.1%
+1635139441.9 Position: LONG [10.000000] LTCUSDT at price 194.29000|Now:193.78288 |Liquid=146.40519-->unrealizedProfit=-5.1USDT ~ -0.3%
+1635139441.9 Position: LONG [0.500000] ETHUSDT at price 4148.07000|Now:4141.00780 |Liquid=3127.43156-->unrealizedProfit=-3.5USDT ~ -0.2%
+GET: https://
+1635139452.4 Position: LONG [0.120000] BTCUSDT at price 62007.60333|Now:62076.67978 |Liquid=0.00000-->unrealizedProfit=8.3USDT ~ 0.1%
+1635139452.4 Position: LONG [10.000000] LTCUSDT at price 194.29000|Now:193.78703 |Liquid=146.40519-->unrealizedProfit=-5.0USDT ~ -0.3%
+1635139452.4 Position: LONG [0.500000] ETHUSDT at price 4148.07000|Now:4141.24251 |Liquid=3127.43156-->unrealizedProfit=-3.4USDT ~ -0.2%
+GET: https://
+1635139463.0 Position: LONG [0.120000] BTCUSDT at price 62007.60333|Now:62096.54827 |Liquid=0.00000-->unrealizedProfit=10.7USDT ~ 0.1%
+1635139463.0 Position: LONG [10.000000] LTCUSDT at price 194.29000|Now:193.87907 |Liquid=146.40519-->unrealizedProfit=-4.1USDT ~ -0.2%
+1635139463.0 Position: LONG [0.500000] ETHUSDT at price 4148.07000|Now:4142.38349 |Liquid=3127.43156-->unrealizedProfit=-2.8USDT ~ -0.1%
+GET: https://
+1635139473.7 Position: LONG [0.120000] BTCUSDT at price 62007.60333|Now:62098.69471 |Liquid=0.00000-->unrealizedProfit=10.9USDT ~ 0.1%
+1635139473.7 Position: LONG [10.000000] LTCUSDT at price 194.29000|Now:193.90832 |Liquid=146.40519-->unrealizedProfit=-3.8USDT ~ -0.2%
+1635139473.7 Position: LONG [0.500000] ETHUSDT at price 4148.07000|Now:4142.54824 |Liquid=3127.43156-->unrealizedProfit=-2.8USDT ~ -0.1%
+GET: https://
+1635139484.4 Position: LONG [0.120000] BTCUSDT at price 62007.60333|Now:62097.62230 |Liquid=0.00000-->unrealizedProfit=10.8USDT ~ 0.1%
+1635139484.4 Position: LONG [10.000000] LTCUSDT at price 194.29000|Now:193.88867 |Liquid=146.40519-->unrealizedProfit=-4.0USDT ~ -0.2%
+1635139484.4 Position: LONG [0.500000] ETHUSDT at price 4148.07000|Now:4142.59586 |Liquid=3127.43156-->unrealizedProfit=-2.7USDT ~ -0.1%
+GET: https://
+1635139494.9 Position: LONG [0.120000] BTCUSDT at price 62007.60333|Now:62097.43237 |Liquid=0.00000-->unrealizedProfit=10.8USDT ~ 0.1%
+1635139494.9 Position: LONG [10.000000] LTCUSDT at price 194.29000|Now:193.89117 |Liquid=146.40519-->unrealizedProfit=-4.0USDT ~ -0.2%
+1635139494.9 Position: LONG [0.500000] ETHUSDT at price 4148.07000|Now:4142.65054 |Liquid=3127.43156-->unrealizedProfit=-2.7USDT ~ -0.1%
+2021-10-25 14:29:59.999000
+New candles: > BTCUSDT : 62093.21
+1635141229.8 BTCUSDT: longing=True buyEnable=False logactionbuy=0 close_request_long=False
+1635141229.8 BTCUSDT: shorting=False sellEnable=True logactionsell=0 close_request_short=False
+2021-10-25 14:54:59.999000
+New candles: > LTCUSDT : 193.27
+1635141230.0 LTCUSDT: longing=True buyEnable=False logactionbuy=0 close_request_long=False
+1635141230.0 LTCUSDT: shorting=False sellEnable=True logactionsell=0 close_request_short=False
+2021-10-25 14:54:59.999000
+New candles: > ETHUSDT : 4123.17
+1635141230.1 ETHUSDT: longing=True buyEnable=False logactionbuy=0 close_request_long=False
+1635141230.1 ETHUSDT: shorting=False sellEnable=True logactionsell=0 close_request_short=False
+2021-10-25 14:54:59.999000
+New candles: > DOGEUSDT : 0.26603
+1635141230.3 DOGEUSDT: longing=False buyEnable=True logactionbuy=0 close_request_long=False
+1635141230.3 DOGEUSDT: shorting=False sellEnable=True logactionsell=0 close_request_short=False
+2021-10-25 14:54:59.999000
+New candles: > NEARUSDT : 9.6607
+1635141230.4 NEARUSDT: longing=False buyEnable=True logactionbuy=0 close_request_long=False
+1635141230.4 NEARUSDT: shorting=False sellEnable=True logactionsell=0 close_request_short=False
+GET: https://
+1635141230.5 Position: LONG [0.120000] BTCUSDT at price 62007.60333|Now:61886.58741 |Liquid=0.00000-->unrealizedProfit=-14.5USDT ~ -0.2%
+1635141230.5 Position: LONG [10.000000] LTCUSDT at price 194.29000|Now:193.24327 |Liquid=146.40519-->unrealizedProfit=-10.5USDT ~ -0.5%
+1635141230.5 Position: LONG [0.500000] ETHUSDT at price 4148.07000|Now:4123.02798 |Liquid=3127.43156-->unrealizedProfit=-12.5USDT ~ -0.6%
+2021-10-25 14:54:59.999000
+New candles: > BTCUSDT : 61890.8
+1635141240.8 BTCUSDT: longing=True buyEnable=False logactionbuy=0 close_request_long=False
+1635141240.8 BTCUSDT: shorting=False sellEnable=True logactionsell=0 close_request_short=False
+GET: https://
+1635141241.5 Position: LONG [0.120000] BTCUSDT at price 62007.60333|Now:61885.56288 |Liquid=0.00000-->unrealizedProfit=-14.6USDT ~ -0.2%
+1635141241.5 Position: LONG [10.000000] LTCUSDT at price 194.29000|Now:193.23671 |Liquid=146.40519-->unrealizedProfit=-10.5USDT ~ -0.5%  
+1635141241.5 Position: LONG [0.500000] ETHUSDT at price 4148.07000|Now:4123.12272 |Liquid=3127.43156-->unrealizedProfit=-12.5USDT ~ -0.6%
+GET: https://
+1635141252.1 Position: LONG [0.120000] BTCUSDT at price 62007.60333|Now:61884.60096 |Liquid=0.00000-->unrealizedProfit=-14.8USDT ~ -0.2%
+1635141252.1 Position: LONG [10.000000] LTCUSDT at price 194.29000|Now:193.18610 |Liquid=146.40519-->unrealizedProfit=-11.0USDT ~ -0.6%
+1635141252.1 Position: LONG [0.500000] ETHUSDT at price 4148.07000|Now:4123.22668 |Liquid=3127.43156-->unrealizedProfit=-12.4USDT ~ -0.6%
+GET: https://
+1635141262.7 Position: LONG [0.120000] BTCUSDT at price 62007.60333|Now:61881.38365 |Liquid=0.00000-->unrealizedProfit=-15.1USDT ~ -0.2%
+1635141262.7 Position: LONG [10.000000] LTCUSDT at price 194.29000|Now:193.18559 |Liquid=146.40519-->unrealizedProfit=-11.0USDT ~ -0.6%
+1635141262.7 Position: LONG [0.500000] ETHUSDT at price 4148.07000|Now:4123.40721 |Liquid=3127.43156-->unrealizedProfit=-12.3USDT ~ -0.6%
+GET: https://
+1635141273.3 Position: LONG [0.120000] BTCUSDT at price 62007.60333|Now:61868.92684 |Liquid=0.00000-->unrealizedProfit=-16.6USDT ~ -0.2%
+1635141273.3 Position: LONG [10.000000] LTCUSDT at price 194.29000|Now:193.11917 |Liquid=146.40519-->unrealizedProfit=-11.7USDT ~ -0.6%
+1635141273.3 Position: LONG [0.500000] ETHUSDT at price 4148.07000|Now:4122.06536 |Liquid=3127.43156-->unrealizedProfit=-13.0USDT ~ -0.6%
+GET: https://
+1635141284.0 Position: LONG [0.120000] BTCUSDT at price 62007.60333|Now:61866.89143 |Liquid=0.00000-->unrealizedProfit=-16.9USDT ~ -0.2%
+1635141284.0 Position: LONG [10.000000] LTCUSDT at price 194.29000|Now:193.12542 |Liquid=146.40519-->unrealizedProfit=-11.6USDT ~ -0.6%
+1635141284.0 Position: LONG [0.500000] ETHUSDT at price 4148.07000|Now:4122.83504 |Liquid=3127.43156-->unrealizedProfit=-12.6USDT ~ -0.6%
+GET: https://
+1635141294.6 Position: LONG [0.120000] BTCUSDT at price 62007.60333|Now:61871.76968 |Liquid=0.00000-->unrealizedProfit=-16.3USDT ~ -0.2%
+1635141294.6 Position: LONG [10.000000] LTCUSDT at price 194.29000|Now:193.16155 |Liquid=146.40519-->unrealizedProfit=-11.3USDT ~ -0.6%
+1635141294.6 Position: LONG [0.500000] ETHUSDT at price 4148.07000|Now:4122.57299 |Liquid=3127.43156-->unrealizedProfit=-12.7USDT ~ -0.6%
+2021-10-25 14:59:59.999000
+New candles: > BTCUSDT : 61870.27
+1635141304.7 BTCUSDT: longing=True buyEnable=False logactionbuy=0 close_request_long=False
+1635141304.7 BTCUSDT: shorting=False sellEnable=True logactionsell=0 close_request_short=False
+2021-10-25 14:59:59.999000
+New candles: > LTCUSDT : 193.13
+1635141304.9 LTCUSDT: longing=True buyEnable=False logactionbuy=0 close_request_long=False
+1635141304.9 LTCUSDT: shorting=False sellEnable=True logactionsell=0 close_request_short=False
+2021-10-25 14:59:59.999000
+New candles: > ETHUSDT : 4122.05
+1635141305.0 ETHUSDT: longing=True buyEnable=False logactionbuy=0 close_request_long=False
+1635141305.0 ETHUSDT: shorting=False sellEnable=True logactionsell=0 close_request_short=False
+2021-10-25 14:59:59.999000
+New candles: > DOGEUSDT : 0.26603
+1635141305.1 DOGEUSDT: longing=False buyEnable=True logactionbuy=0 close_request_long=False
+1635141305.1 DOGEUSDT: shorting=False sellEnable=True logactionsell=0 close_request_short=False
+2021-10-25 14:59:59.999000
+New candles: > NEARUSDT : 9.6607
+1635141305.2 NEARUSDT: longing=False buyEnable=True logactionbuy=0 close_request_long=False
+1635141305.2 NEARUSDT: shorting=False sellEnable=True logactionsell=0 close_request_short=False
+GET: https://
+1635141305.3 Position: LONG [0.120000] BTCUSDT at price 62007.60333|Now:61859.70611 |Liquid=0.00000-->unrealizedProfit=-17.7USDT ~ -0.2%
+1635141305.3 Position: LONG [10.000000] LTCUSDT at price 194.29000|Now:193.05032 |Liquid=146.40519-->unrealizedProfit=-12.4USDT ~ -0.6%
+1635141305.3 Position: LONG [0.500000] ETHUSDT at price 4148.07000|Now:4121.81295 |Liquid=3127.43156-->unrealizedProfit=-13.1USDT ~ -0.6%
+GET: https://
